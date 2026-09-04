@@ -1,3 +1,6 @@
-document.addEventListener('DOMContentLoaded', function() {
-        mdc.init();
-        mda.init();
+document.addEventListener('DOMContentLoaded', function () {
+    mdc.init();
+    mda.init();
+    desj.init();
+}
+devicePixelRatio satisfies
