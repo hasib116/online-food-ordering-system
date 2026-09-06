@@ -7,3 +7,5 @@
     <br>
     <input type="submit" value="Login">
 </form>
+<a href="register.php">Register</a>
+<a href="forgot_password.php">Forgot Password?</a>
